@@ -1,19 +1,46 @@
-# Customer_behavior_analysis
-Data analytics project showcasing customer behavior analysis using Python , SQL and Power BI
-👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
-This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
+# 📊 Customer Behavior Analysis
 
+Data analytics project focused on analyzing customer shopping behavior using Python, SQL, and Power BI.
 
-📌 Project Overview
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+## 📌 Project Overview
 
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+This project analyzes customer shopping data to identify patterns in customer spending, purchasing behavior, product preferences, discounts, subscriptions, and customer segments.
 
-✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+The project follows an end-to-end data analysis workflow, starting with data preparation and exploration in Python, followed by SQL-based analysis and visualization through an interactive Power BI dashboard.
 
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+### 🔄 Project Workflow
 
-✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+✅ **Data Preparation & Exploratory Analysis – Python**
+- Loaded and explored the dataset using Pandas
+- Cleaned and transformed the data
+- Handled missing values
+- Created features for further analysis
+
+✅ **Data Analysis – SQL**
+- Analyzed customer purchasing behavior
+- Calculated revenue and average spending
+- Compared subscribers and non-subscribers
+- Analyzed products, discounts, ratings, and customer segments
+
+✅ **Visualization – Power BI**
+- Created an interactive dashboard
+- Visualized customer and purchasing trends
+- Presented key findings through charts and KPIs
+
+## 🛠️ Tools Used
+
+- Python (Pandas)
+- MYSQL
+- Excel
+- Power BI
+
+## 🎯 Project Objective
+
+The objective of this project is to practice an end-to-end data analytics workflow and understand how customer shopping data can be transformed into meaningful business insights.
+
+## 🙏 Acknowledgement
+
+This project was completed as a hands-on learning exercise based on a guided YouTube tutorial.
 
 
 
